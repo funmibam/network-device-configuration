@@ -18,6 +18,9 @@ In the first part of the lab, we connected **PC_1** to the **Edge_Router** using
 - Connecting the **RS232 port** on **PC_1** to the **Console port** on the **Edge_Router**.
 - Accessing the router’s command-line interface (CLI) via **Terminal** software in **PC_1**.
 
+  <img width="557" alt="Screenshot 2024-10-17 050730" src="https://github.com/user-attachments/assets/a13c2b8e-6161-47b8-bb30-87cae6534263">
+
+
 ### 2. Installing and Configuring the Backup Router
 Next, we installed a **Backup_Router** from the inventory in the rack:
 - Located the **Backup_Router** on the 4th shelf and dragged it into an empty rack space.
@@ -32,7 +35,9 @@ Router> enable
 Router# configure terminal
 Router(config)# hostname Edge_Router_Backup
 Edge_Router_Backup(config)# end
+<img width="365" alt="Screenshot 2024-10-17 054025" src="https://github.com/user-attachments/assets/c18ca492-8e53-4652-893b-576f487e4234">
 
 
-You can replace the `path-to-screenshot-1.png` and `path-to-screenshot-2.png` with the actual paths to your screenshots after uploading them to your repository.
+
+
 
