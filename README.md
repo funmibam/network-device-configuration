@@ -35,6 +35,7 @@ Router> enable
 Router# configure terminal
 Router(config)# hostname Edge_Router_Backup
 Edge_Router_Backup(config)# end
+
 <img width="365" alt="Screenshot 2024-10-17 054025" src="https://github.com/user-attachments/assets/c18ca492-8e53-4652-893b-576f487e4234">
 
 
