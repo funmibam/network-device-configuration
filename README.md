@@ -1,7 +1,7 @@
 # Cisco Packet Tracer Lab - Network Device Configuration and Connectivity
 
 ## Overview
-This lab covers various tasks related to configuring and managing network devices in Cisco Packet Tracer. We explored connecting devices using different cables, installing and powering up routers, and configuring network devices through the command-line interface (CLI). We also configured DHCP and static IP addressing to verify connectivity between devices on the network.
+This lab covers various tasks related to configuring and managing network devices in Cisco Packet Tracer. I explored connecting devices using different cables, installing and powering up routers, and configuring network devices through the command-line interface (CLI). I also configured DHCP and static IP addressing to verify connectivity between devices on the network.
 
 ## Lab Objectives
 - Investigate devices in a wiring closet.
@@ -29,7 +29,7 @@ Next, we installed a **Backup_Router** from the inventory in the rack:
 - Accessed the router's **CLI** via terminal software on **Laptop_1**.
 
 ### 3. Configuring the Backup Router's Hostname
-Using the CLI on the **Backup_Router**, we configured the hostname:
+Using the CLI on the **Backup_Router**, I configured the hostname:
 ```bash
 Router> enable
 Router# configure terminal
